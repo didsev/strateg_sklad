@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  user_id: 1
+  date: 2016-03-03 09:41:18
+  last_date: 2016-03-03 09:41:18
+  last_user_id: 1
+  date_of_purchase: 2016-03-03 09:41:18
+  works: 1
+  url_foto: MyString
+  serial: 1
+
+two:
+  name: MyString
+  user_id: 1
+  date: 2016-03-03 09:41:18
+  last_date: 2016-03-03 09:41:18
+  last_user_id: 1
+  date_of_purchase: 2016-03-03 09:41:18
+  works: 1
+  url_foto: MyString
+  serial: 1
